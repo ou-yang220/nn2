@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-CARLA 0.9.10 车路协同避障
+CARLA 0.9.10 车路协同避障.
 """
 import sys
 import time
